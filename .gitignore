@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+*.db3
+*.db3-*
+production-*.db3*
+dev-*.db3*
